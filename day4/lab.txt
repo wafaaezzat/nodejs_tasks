@@ -1,0 +1,6 @@
+implement authentication on plans
+edit delete adding are only for admin
+viewing only for authenticated user
+//================================
+subscribe => POST /plans/subscribe/:id body => useId
+unsubscribe => the opposite
